@@ -3,7 +3,14 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Users/Nishant RAj/Desktop/ad/Todo/app/src/main/res/layout/activity_main.xml" value="0.1796875" />
+        <entry key="..\:/Users/Nishant RAj/Desktop/ad/Todo/app/src/main/res/drawable/ic_access_time_black_24dp.xml" value="0.1" />
+        <entry key="..\:/Users/Nishant RAj/Desktop/ad/Todo/app/src/main/res/drawable/ic_add_white_24dp.xml" value="0.1" />
+        <entry key="..\:/Users/Nishant RAj/Desktop/ad/Todo/app/src/main/res/drawable/ic_date_range_black_24dp.xml" value="0.18020833333333333" />
+        <entry key="..\:/Users/Nishant RAj/Desktop/ad/Todo/app/src/main/res/drawable/ic_playlist_add_black_24dp.xml" value="0.1" />
+        <entry key="..\:/Users/Nishant RAj/Desktop/ad/Todo/app/src/main/res/layout/activity_history.xml" value="0.165625" />
+        <entry key="..\:/Users/Nishant RAj/Desktop/ad/Todo/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/Nishant RAj/Desktop/ad/Todo/app/src/main/res/layout/activity_task.xml" value="0.22" />
+        <entry key="..\:/Users/Nishant RAj/Desktop/ad/Todo/app/src/main/res/menu/main_menu.xml" value="0.17916666666666667" />
       </map>
     </option>
   </component>
